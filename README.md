@@ -24,3 +24,4 @@ Resources
 ---------
 
 1. https://github.com/webpack/webpack-dev-middleware
+2. [Why webpack-dev-middleware provides `publicPath` configuration?](http://stackoverflow.com/questions/38815241/why-webpack-dev-middleware-provides-publicpath-configuration)
